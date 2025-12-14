@@ -19,7 +19,8 @@ Build a small enterprise-style Windows environment to practice:
   - NIC: Internal Network (Lab LAN)
   - Joined to domain
 
-Diagram: `diagrams/network-diagram.png`
+Diagram: <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/03431ccf-20d4-4b9f-a402-b2ad87d7d208" />
+
 
 ---
 
